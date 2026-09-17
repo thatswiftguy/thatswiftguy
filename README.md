@@ -8,8 +8,3 @@ I build Swift packages, iOS, macOS apps and command line tools for Apple platfor
 - [**Perch**](https://github.com/thatswiftguy/Perch) - A macOS menu bar app that shows what every Claude Code session on your machine is doing, so you can tell at a glance whether one finished or has been sitting blocked on a permission prompt. Optionally renders as a notch island.
 - [**Pannable**](https://github.com/thatswiftguy/Pannable) - A pannable 2D canvas for SwiftUI. It takes a collection and lays the items out on a large canvas. Runs on iOS, iPadOS, macOS and watchOS with no dependencies.
 - [**type**](https://github.com/thatswiftguy/type) - A page build for typing practice. Vibe coded for fun. Try [here](https://thatswiftguy.com/type).
-
-
-
-## Apps
-- [**Stone**](https://habitwithstone.com/) - An under development habit building app. 
