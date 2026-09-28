@@ -3,6 +3,8 @@ I build Swift packages, iOS, macOS apps and command line tools for Apple platfor
 
 [*thatswiftguy.com*](https://thatswiftguy.com)
 
+[**Wavy**](https://apps.apple.com/us/app/wavy-calm-shape-challenges/id6809567113) - A really fun game app. Try it once. 
+
 ## Projects
 - [**xcstrings-lint**](https://github.com/thatswiftguy/xcstrings-lint) - A GitHub Action that checks your iOS String Catalogs on every pull request. It fails the build when a change adds strings that aren't translated everywhere.
 - [**Perch**](https://github.com/thatswiftguy/Perch) - A macOS menu bar app that shows what every Claude Code session on your machine is doing, so you can tell at a glance whether one finished or has been sitting blocked on a permission prompt. Optionally renders as a notch island.
