@@ -1,7 +1,7 @@
 # Yasir
 I build Swift packages, iOS, macOS apps and command line tools for Apple platforms, with a focus on learning and expanding my expertise. Parallelly, building iOS app at [**Airlearn**](https://airlearn.com/) as an iOS developer.
 
-[*thatswiftguy.com*](https://thatswiftguy.com)
+[*thatswiftguy.com*](https://thatswiftguy.com) 
 
 [**Wavy**](https://apps.apple.com/us/app/wavy-calm-shape-challenges/id6809567113) - A really fun game app. Try it once. 
 
